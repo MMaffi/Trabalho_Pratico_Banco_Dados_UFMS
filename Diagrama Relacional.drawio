@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="5aJ7HDzwwhOvgd06R128">
-    <mxGraphModel dx="1299" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="2969" dy="1474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="DYmN42ilFW45tweQ9sss-139" parent="1" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedHeader=1;" value="PESSOA_DESEMPREGADA" vertex="1">
-          <mxGeometry height="388" width="293" x="40" y="21" as="geometry" />
+          <mxGeometry height="388" width="293" x="110" y="130" as="geometry" />
         </mxCell>
         <mxCell id="DYmN42ilFW45tweQ9sss-140" parent="DYmN42ilFW45tweQ9sss-139" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;" value="" vertex="1">
           <mxGeometry height="30" width="293" y="30" as="geometry" />
@@ -838,7 +838,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5-5B2Mi_1cIwo9z6dWzE-1" parent="1" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedHeader=1;" value="ATENDENTE" vertex="1">
-          <mxGeometry height="250" width="300" x="200" y="1280" as="geometry" />
+          <mxGeometry height="250" width="300" x="80" y="1280" as="geometry" />
         </mxCell>
         <mxCell id="5-5B2Mi_1cIwo9z6dWzE-2" parent="5-5B2Mi_1cIwo9z6dWzE-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;" value="" vertex="1">
           <mxGeometry height="36" width="300" y="30" as="geometry" />
@@ -949,7 +949,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5-5B2Mi_1cIwo9z6dWzE-26" parent="1" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedHeader=1;" value="ENCAMINHAMENTO" vertex="1">
-          <mxGeometry height="280" width="340" x="1040" y="760" as="geometry" />
+          <mxGeometry height="280" width="340" x="903" y="1280" as="geometry" />
         </mxCell>
         <mxCell id="5-5B2Mi_1cIwo9z6dWzE-27" parent="5-5B2Mi_1cIwo9z6dWzE-26" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;" value="" vertex="1">
           <mxGeometry height="35" width="340" y="30" as="geometry" />
@@ -1135,7 +1135,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5-5B2Mi_1cIwo9z6dWzE-68" parent="1" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedHeader=1;" value="PARTICIPACAO_CURSO" vertex="1">
-          <mxGeometry height="140" width="264" x="40" y="560" as="geometry" />
+          <mxGeometry height="140" width="264" x="110" y="560" as="geometry" />
         </mxCell>
         <mxCell id="5-5B2Mi_1cIwo9z6dWzE-69" parent="5-5B2Mi_1cIwo9z6dWzE-68" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;" value="" vertex="1">
           <mxGeometry height="36" width="264" y="30" as="geometry" />
@@ -1204,6 +1204,26 @@
               <mxPoint x="530" y="682" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="5-5B2Mi_1cIwo9z6dWzE-84" edge="1" parent="1" source="DYmN42ilFW45tweQ9sss-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="5-5B2Mi_1cIwo9z6dWzE-60">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="205" />
+              <mxPoint x="460" y="565" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5-5B2Mi_1cIwo9z6dWzE-85" edge="1" parent="1" source="DYmN42ilFW45tweQ9sss-300" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="5-5B2Mi_1cIwo9z6dWzE-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5-5B2Mi_1cIwo9z6dWzE-87" edge="1" parent="1" source="DYmN42ilFW45tweQ9sss-300" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="5-5B2Mi_1cIwo9z6dWzE-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5-5B2Mi_1cIwo9z6dWzE-88" edge="1" parent="1" source="DYmN42ilFW45tweQ9sss-258" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="5-5B2Mi_1cIwo9z6dWzE-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5-5B2Mi_1cIwo9z6dWzE-89" edge="1" parent="1" source="5-5B2Mi_1cIwo9z6dWzE-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.022;entryY=0.485;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" target="5-5B2Mi_1cIwo9z6dWzE-47">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
